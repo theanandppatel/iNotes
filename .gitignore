@@ -1,0 +1,9 @@
+client/node_modules
+client/.env.local
+client/netlify.toml
+client/build
+server/node_modules
+server/config.env
+server/Procfile
+server/db.js
+server/routes/auth.js
